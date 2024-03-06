@@ -27,7 +27,8 @@ Welcome to my GitHub profile! I'm a full-stack developer with a Bachelor's degre
 
 ## 🎥 Movies I'm Liking a Lot
 
-Here are some of the movies I've been enjoying recently! _really liking Denis Villeneuve recently_
+- Here are some of the movies I've been enjoying recently! _really liking Denis Villeneuve recently_
+- **Letterboxd**: [My Letterboxd](https://letterboxd.com/kyle_kiba/)
 
 <p float="left">
   <img src="https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg" width="150" alt="Blade Runner 2049" />
@@ -36,6 +37,7 @@ Here are some of the movies I've been enjoying recently! _really liking Denis Vi
   <img src="https://m.media-amazon.com/images/S/pv-target-images/dbb9aff6fc5fcd726e2c19c07f165d40aa7716d1dee8974aae8a0dad9128d392.jpg" width="150" alt="Pulp Fiction" />
   <img src="https://m.media-amazon.com/images/M/MV5BNGM0YTk3MWEtN2JlZC00ZmZmLWIwMDktZTMxZGE5Zjc2MGExXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg" width="150" alt="Hunter x Hunter" />
 </p>
+
 
 ## 📫 How to Reach Me
 
